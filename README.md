@@ -1,7 +1,7 @@
 ![logo](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Muhammad huzaifa khan</h1>
 <h3 align="center">A passionate android developer from Karachi, Pakistan.</h3>
-<image align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ZXN24pCQ-lCk4adHEisoJ&ust=1689753879531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi06L7ml4ADFQAAAAAdAAAAABBe">
+<image align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connecthuzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="connecthuzaifa" /> </p>
 
