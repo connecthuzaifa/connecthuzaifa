@@ -1,4 +1,4 @@
-![logo](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ZXN24pCQ-lCk4adHEisoJ&ust=1689753879531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi06L7ml4ADFQAAAAAdAAAAABBe)
 <h1 align="center">Hi 👋, I'm Muhammad huzaifa khan</h1>
 <h3 align="center">A passionate android developer from Karachi, Pakistan.</h3>
 <image align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
